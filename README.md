@@ -1,5 +1,5 @@
 >>The Contents of the Project-
- >>Selenium Curriculum								
+Selenium Curriculum								
 		What is WebDriver?							
 		Difference between Selenium RC and WebDriver							
 		Difference between WebDriver and other commercial tools							
@@ -48,7 +48,7 @@
 		10.Handling frames							
 		11.JavascriptExecutor	
   --------------------------------------------------
->> Introduction to TestNG							
+> Introduction to TestNG							
 		13. Why TestNG							
 		14. Installing TestNG with Eclipse							
 		15. Creating TestNG Class and running it							
@@ -63,7 +63,7 @@
 		            6. @DataProvider							
 		19.Setting priority to methods in TestNG Test and running it
 >> -------------------------------------------------------------							
->>Running TestNG tests using XML File							
+>Running TestNG tests using XML File							
 		            1. Single test							
 		            2. Multiple tests (Test Suites)							
 		            3. Grouping of methods							
@@ -72,7 +72,7 @@
 		          6. Running specific method from TestNG classes							
 		Using Assert in TestNG test
 >> ------------------------------------------------------------							
->>Handling Excel Files in TestNG Test							
+>Handling Excel Files in TestNG Test							
 		            1. Difference between JXL & Apache POI							
 		            2. Configuring Apache POI with Eclipse							
 		            3. Creating and entering the data in single cell							
